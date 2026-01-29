@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Aplicación para hacer un to do ",
   "homepage": "https://github.com/fogSloth/todo_list#readme",
+  "start": "node index.js",
   "bugs": {
     "url": "https://github.com/fogSloth/todo_list/issues"
   },
@@ -20,6 +21,5 @@
   "dependencies": {
     "express": "^5.2.1",
     "pug": "^3.0.3"
-  },
-  "devDependencies": {}
+  }
 }
