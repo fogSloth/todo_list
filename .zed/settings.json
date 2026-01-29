@@ -1,0 +1,10 @@
+{
+  "terminal": {
+    "shell": "system"
+  },
+  "languages": {
+    "Shell Script": {
+      "tab_size": 8
+    }
+  }
+}
